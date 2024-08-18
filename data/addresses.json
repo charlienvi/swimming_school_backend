@@ -1,0 +1,28 @@
+{
+    "addresses": [
+        {
+            "id"            : 1,
+            "street"        : "Hannuitsesteenweg",
+            "housenumber"   : 46,
+            "zipcode"       : 3400,
+            "city"          : "Landen",
+            "person_id"     : null
+        },
+        {
+            "id"            : 2,
+            "street"        : "Grote Markt",
+            "housenumber"   : 12,
+            "zipcode"       : 3000,
+            "city"          : "Leuven",
+            "person_id"     : null
+        },
+        {
+            "id"            : 3,
+            "street"        : "Mechelsesteenweg",
+            "housenumber"   : 200,
+            "zipcode"       : 2800,
+            "city"          : "Mechelen",
+            "person_id"     : null
+        }
+    ]
+}
